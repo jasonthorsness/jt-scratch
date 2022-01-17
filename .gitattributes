@@ -1,0 +1,4 @@
+* text eol=lf
+*.jpg binary
+*.ico binary
+*.sln text eol=crlf
